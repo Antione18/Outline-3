@@ -29,7 +29,10 @@
 <img width="483" height="336" alt="9  " src="https://github.com/user-attachments/assets/91e46240-8c75-4bfe-8fb6-5d4307da79bb" />
 
 # Step 3: Resolve ticket
-- 
+- First in the reply section, I can reply to the user and update them of the status of their ticket. I will reply that I have resolved the issue and let them know the details. I will then scroll back up to the status button, click it, click resolved and write a message saying the issue has been resolved. 
+<img width="885" height="554" alt="10  resolving tickets " src="https://github.com/user-attachments/assets/495b9ff5-989e-4c05-8bf3-b5ab368d9029" />
+<img width="784" height="316" alt="11  " src="https://github.com/user-attachments/assets/13d4bf85-58a8-4823-89af-f68f1fb3f52c" />
+<img width="898" height="421" alt="12  " src="https://github.com/user-attachments/assets/122ffc7d-67d8-4ff5-ac13-78d531aaeb42" />
 
 
 
