@@ -1,6 +1,12 @@
 # osTicket Simulation 
 # Summary/Description  
-- jknkvnvnrlvnrlj
+- In the project I am running a simulation of what it might look like to create tickets, how to set up tickets, and how to resolve tickets in my day to day job as a help desk worker.
+- Step 1: End User Ticket Creation
+- Step 2: Observe and Set Ticket Properties
+- Step 2, Step 1: Set SLA
+- Step 2, Step 2: Set Help Topic
+- Step 2, Step 3: Set Team
+- Step 3: Resolve Ticket
 # Technologies & Enviorments used 
 - Macbook Pro running Windows 10 
 # Demonstration Steps & Media
@@ -10,7 +16,7 @@
 <img width="763" height="617" alt="1  ticket creation  " src="https://github.com/user-attachments/assets/8df082e1-37e4-47de-9789-a5ae63f56d35" />
 <img width="839" height="545" alt="2  " src="https://github.com/user-attachments/assets/9f49c120-7e36-48ba-8d51-c7d88d4ccb3a" />
 
-# Step 2: As a Help Desk Agent Observe Then set the Ticket's Properties 
+# Step 2: Observe and set Ticket Properties 
 <img width="782" height="451" alt="3  ticket observe setting" src="https://github.com/user-attachments/assets/85f71430-5ff5-445f-9405-6dc663353c22" />
 
 # Step 2, Step 1: Set SLA
