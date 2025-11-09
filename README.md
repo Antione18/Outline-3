@@ -1,6 +1,6 @@
 # osTicket Simulation 
 # Summary/Description  
-- In the project I am running a simulation of what it might look like to create tickets, how to set up tickets, and how to resolve tickets in my day to day job as a help desk worker.
+- In this project I am running a simulation of what it might look like to create tickets, how to set up tickets, and how to resolve tickets in my day to day job as a help desk worker.
 - Step 1: End User Ticket Creation
 - Step 2: Observe and Set Ticket Properties
 - Step 2, Step 1: Set SLA
