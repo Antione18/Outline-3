@@ -19,16 +19,17 @@
 <img width="416" height="389" alt="5  " src="https://github.com/user-attachments/assets/a7e82584-a583-446f-b8c4-a42fecce5d67" />
 
 # Step 2, Step 2: Set Help Topic
-- Next I will update the help topic to the more appropriate name. I click the help topic, click the drop down menu and select the help topic I created in the last project and write an explanation of why it is set that way. 
+- I will update the help topic to the more appropriate name. I click the help topic, click the drop down menu and select the help topic I created in the last project and write an explanation of why it is set that way. 
 <img width="718" height="390" alt="6  " src="https://github.com/user-attachments/assets/28865736-c4ee-4bab-8c41-933f82b4a89f" />
 <img width="798" height="372" alt="7  " src="https://github.com/user-attachments/assets/d9e76b46-c793-48bc-8dd3-8bdbe6400ca4" />
 
 # Step 2, Step 3: Set Team
-- Finally I will assign this ticket to the most appropriate Team by cklicking on Teamt, drop down menu and select the one I created add an explanation and update the ticket with the correct Team.
+- I will assign this ticket to the most appropriate Team by cklicking on Team, drop down menu and select the one I created add an explanation and update the ticket with the correct Team.
 <img width="719" height="371" alt="8  " src="https://github.com/user-attachments/assets/a7a3019a-ec1d-4b8e-b96d-6ff3ff7f5e45" />
 <img width="483" height="336" alt="9  " src="https://github.com/user-attachments/assets/91e46240-8c75-4bfe-8fb6-5d4307da79bb" />
 
-
+# Step 3: Resolve ticket
+- 
 
 
 
