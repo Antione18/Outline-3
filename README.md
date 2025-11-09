@@ -12,4 +12,4 @@
 
 # Step 2: As a Help Desk Agent Observe Then set the Ticket's Properties 
 - First observing the ticket I see that the SLA is set to default. I will clicket and set it to Sev-A, and write an explanation of why it is at that level.
- 
+- Next I will update the help topic to the more appropriate name. I click the help topic, click the drop down menu and select the help topic I created in the last project and write an explanation of why it is set that way. 
